@@ -1,0 +1,13 @@
+#!/bin/bash
+
+systemctl enable calamares-remove.service
+
+systemctl enable harden-module-loading.service
+
+systemctl enable remove-secure.service
+
+systemctl enable remove-system-map.service
+
+systemctl enable securonis-antifingerprint.service
+
+systemctl enable securonis-cleanup-master.service
