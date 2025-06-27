@@ -7,3 +7,13 @@ systemctl enable onion-grater.service
 systemctl enable securonis-antifingerprint.service
 
 systemctl enable securonis-cleanup-master.service
+
+systemctl enable securonis-firstboot.service
+
+systemctl enable haveged
+
+systemctl enable securonis-anti-ipspoof.service
+
+systemctl enable hardened-securonis-extra.service
+
+systemctl enable jason-tor.service

@@ -25,3 +25,4 @@ lshw
 apt-transport-tor
 dconf-cli
 xsel
+haveged
