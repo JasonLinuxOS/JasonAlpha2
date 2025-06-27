@@ -10,8 +10,6 @@ rsync
 tmux
 lsof
 net-tools
-nmap
-wireshark
 tcpdump
 traceroute
 #dnsutils
